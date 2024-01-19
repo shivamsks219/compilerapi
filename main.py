@@ -3,7 +3,7 @@ import subprocess
 
 app = Flask(__name__)
 
-@app.route('/run_code', methods=['POST'])
+@app.route('/', methods=['POST'])
 def run_code():
     try:
         data = request.get_json()
