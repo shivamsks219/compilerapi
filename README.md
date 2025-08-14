@@ -10,7 +10,7 @@ Instructions to use the app on local computer system.
   <li>Unzip the downloaded zip</li>
   <li>Create a virtual environment inside the main folder using command <kbd>python -m venv ve</kbd></li>
     <li>Activate the Virtual environment</li>
-    <li>Install the requirements suing command <kbd>pip install -r requirements.txt</kbd></li>
+    <li>Install the requirements using command <kbd>pip install -r requirements.txt</kbd></li>
     <li>Run the flask app</li>
     <li>Using POSTMAN app send the request to test the API. </li>
 </ol>
